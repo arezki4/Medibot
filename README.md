@@ -11,7 +11,7 @@ Apres le traitement et l'entrainement des donnée on recupere l'input de l'utili
 
 **A savoir:** j'ai sauvegardé les meilleurs résultats de l'entrainement dans un modéle afin d'eviter de toujours devoir le reentrainer a chaque execution et par consequent accelerer l'execution du chat-bot.
 
-<h2>0Résultats Obtenu</h2>
+<h2>Résultats Obtenu</h2>
 	-On a obtenus un taux de précision de 95% pour notre Chatbot
 	-On a choisi l’arbre de décision comme modèle finale car le Deep Learning est plus adapté sur TenserFlow méme-ci dans la realité pour faire un chat bot beaucoup plus complexe, il faut utiliser le Deep en plus dans notre cas le fait de transformer nos données en sac de mots fait que le descision tree deviens le plus pertinent.
 
