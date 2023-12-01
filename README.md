@@ -1,6 +1,6 @@
 # Medibot
 
-Projet de chatbot médical qui peut donner les premier soins a donner en cas d'accident ou d'urgence médicale grace a une base de donnée en ".json".
+Projet de chatbot médical qui peut prescrire les premier soins a donner en cas d'accident ou d'urgence médicale grace a une base de donnée en ".json".
 
 <h2>Technologies Utilisé:</h2>
 Pour realiser se Chat-bot j'ai utiliser le language de programmation Python avec la bibliothéque de machine learning SktLearn, pour l'entrainement du chat j'ai testé deux algorithme: l'arbre de décision et le deep-learning.
