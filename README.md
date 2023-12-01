@@ -16,7 +16,7 @@ Apres le traitement et l'entrainement des donnée on recupere l'input de l'utili
 	-On a choisi l’arbre de décision comme modèle finale car le Deep Learning est plus adapté sur TenserFlow méme-ci dans la realité pour faire un chat bot beaucoup plus complexe, il faut utiliser le Deep en plus dans notre cas le fait de transformer nos données en sac de mots fait que le descision tree deviens le plus pertinent.
 
 <h2>Installation du projet</h2>
-Il faut vous rendre dans le dossier **/src** c'est la ou il y a le fichier executable.
+Il faut vous rendre dans le dossier <b>/src</b> c'est la ou il y a le fichier executable.
 1/- Installer NLTK grace a la commande **pip3 install nltk** 
 2/- Installer Sklearn grace a la commande **pip3 install sklearn**
 3/- Installer Numpy grace a la commande **pip3 install numpy**
